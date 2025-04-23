@@ -65,15 +65,15 @@ Tested on multiple ML models:
 ---
 
 ## Libraries used include:
-### scikit-learn
-### xgboost
-### sentence-transformers
-### gensim
-### nltk
-### lime
-### matplotlib, pandas, numpy
+- **scikit-learn**
+- **xgboost**
+- **sentence-transformers**
+- **gensim**
+- **nltk**
+- **lime**
+- **matplotlib, pandas, numpy**
 
 
 ## Author
 ### SriCheran CH
-**sricheran320@gmail.com**
+- **sricheran320@gmail.com**
