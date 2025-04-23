@@ -72,7 +72,9 @@ Tested on multiple ML models:
 - **nltk**
 - **lime**
 - **matplotlib, pandas, numpy**
+
 ![OUTPUT](Lime output.jpg)
+
 ## Author
 ### SriCheran CH
 - **sricheran320@gmail.com**
