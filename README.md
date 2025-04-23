@@ -73,7 +73,7 @@ Tested on multiple ML models:
 - **lime**
 - **matplotlib, pandas, numpy**
 
-![OUTPUT](Lime output.jpg)
+![OUTPUT](Lime%20output.jpg)
 
 ## Author
 ### SriCheran CH
